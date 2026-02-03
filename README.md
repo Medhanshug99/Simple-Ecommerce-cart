@@ -6,6 +6,10 @@ The project focuses on core concepts like adding items to a cart, updating quant
 It’s a beginner-friendly project and mainly meant for learning and practice.
 
 ---
+# Live Demo : 
+(https://shop-ease-hazel-omega.vercel.app/)
+
+---
 
 ## Features
 
